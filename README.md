@@ -3,7 +3,7 @@
 
 ![My etiqueta](https://img.shields.io/badge/David%20Maza-DiveCode%F0%9F%90%99-blue) ![UD](https://img.shields.io/badge/TA-10-orange)  ![Java Version](https://img.shields.io/badge/java-v8-red)
 
-## UD10 - Java Exceptions 🖐️⚠️
+## UD10 - Java Exceptions 🖐️
 Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
 
